@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "BB ",
+        " S ",
+        " S "
+    ],
+    
+    "key":
+    {
+        "B":
+        {
+            "item": "moreores:bronze_ingot"
+        },
+		
+		"S":
+		{
+			"item": "minecraft:stick"
+		}
+    },
+    
+    "result":
+    {
+        "item": "moreores:bronze_hoe",
+        "count": 1
+    }
+}

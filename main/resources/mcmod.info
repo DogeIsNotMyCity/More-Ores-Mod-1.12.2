@@ -1,0 +1,16 @@
+[
+{
+  "modid": "moreores",
+  "name": "More Ores Mod",
+  "description": "",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["DogeIsMyCity"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

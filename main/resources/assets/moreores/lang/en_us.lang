@@ -1,0 +1,33 @@
+//Tabs
+itemGroup.moreorestab=More Ores Mod
+
+//Items
+item.copper_ingot.name=Copper Ingot
+item.tin_ingot.name=Tin Ingot
+item.bronze_ingot.name=Bronze Ingot
+
+//Ores
+tile.copper_ore.name=Copper Ore
+tile.tin_ore.name=Tin Ore
+
+//Material Blocks
+tile.copper_block.name=Block of Copper
+tile.tin_block.name=Block of Tin
+tile.bronze_block.name=Block of Bronze
+
+//Tools
+item.bronze_sword.name=Bronze Sword
+item.bronze_pickaxe.name=Bronze Pickaxe
+item.bronze_shovel.name=Bronze Shovel
+item.bronze_axe.name=Bronze Axe
+item.bronze_hoe.name=Bronze Hoe
+
+//Armour
+item.bronze_helmet.name=Bronze Helmet
+item.bronze_chestplate.name=Bronze Chestplate
+item.bronze_leggings.name=Bronze Leggings
+item.bronze_boots.name=Bronze Boots
+
+container.blast_furnace=Blast Furnace
+tile.blast_furnace.name=Blast Furnace
+tile.lit_blast_furnace.name=Lit Blast Furnace

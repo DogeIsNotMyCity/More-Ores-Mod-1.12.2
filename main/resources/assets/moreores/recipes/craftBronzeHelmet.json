@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "BBB",
+        "B B",
+        "   "
+    ],
+    
+    "key":
+    {
+        "B":
+        {
+            "item": "moreores:bronze_ingot"
+        }
+    },
+    
+    "result":
+    {
+        "item": "moreores:bronze_helmet",
+        "count": 1
+    }
+}

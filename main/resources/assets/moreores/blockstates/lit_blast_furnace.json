@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=north": { "model": "moreores:lit_blast_furnace" },
+        "facing=south": { "model": "moreores:lit_blast_furnace", "y": 180 },
+        "facing=west":  { "model": "moreores:lit_blast_furnace", "y": 270 },
+        "facing=east":  { "model": "moreores:lit_blast_furnace", "y": 90 }
+    }
+}

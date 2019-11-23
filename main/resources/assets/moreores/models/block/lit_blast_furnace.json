@@ -1,0 +1,8 @@
+{
+    "parent": "block/orientable",
+    "textures": {
+        "top": "moreores:blocks/blast_furnace_top",
+        "front": "moreores:blocks/blast_furnace_front_on",
+        "side": "moreores:blocks/blast_furnace_side"
+    }
+}
